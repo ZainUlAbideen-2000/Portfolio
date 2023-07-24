@@ -119,7 +119,7 @@ function About() {
                                 </div>
                             </div>
                             <div data-aos="zoom-in" className="hello flex-1 aos-init aos-animate">
-                                <div className="about-contact-box info-box shadow-box">
+                                <div className="about-contact-box info-box shadow-box" >
                                     <a className="overlay-link" href=""></a>
                                     {/* <img src="/assets/images/bg1.png" alt="BG" className="bg-img"> */}
                                     <img src={icon2} alt="Icon" className="star-icon" />
